@@ -99,7 +99,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://dargui182@@Ciccio123github.com/dargui182/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://dargui182@%40Ciccio123github.com/dargui182/sfg-pet-clinic.git</developerConnection>
     </scm>
 
 </project>
