@@ -72,7 +72,6 @@
                     <argLine>
                         --illegal-access=permit
                     </argLine>
-                    <argLine>-Xmx1024m -XX:MaxPermSize=256m</argLine>
                 </configuration>
             </plugin>
             <plugin>
@@ -97,7 +96,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:springframeworkguru/sfg-pet-clinic.git</developerConnection>
-  </scm>
+        <developerConnection>scm:git:git@github.com:dargui182/sfg-pet-clinic.git</developerConnection>
+    </scm>
 
 </project>
